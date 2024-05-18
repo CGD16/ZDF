@@ -1,0 +1,16 @@
+Motivation dieses Projekts
+
+
+In einer Zeit der Unruhe und gesellschaftlicher Spannungen beobachten wir zunehmend Demonstrationen, 
+in denen sich Gruppen mit unterschiedlichen politischen Ausrichtungen gegenüberstehen: links gegen rechts und umgekehrt. 
+Ebenso formieren sich Menschen, die sich gegen die vermeintliche "Elite" oder "die da oben" positionieren, um für ihre Interessen zu kämpfen. 
+Dieses Phänomen verstärkt den Eindruck, dass Deutschland sich in einem Zustand der Unordnung befindet, 
+da viele Bürger mit ihren Lebensumständen unzufrieden sind und dies durch öffentliche Proteste zum Ausdruck bringen.
+
+In diesem Kontext spielt die Rolle der Medien eine entscheidende Rolle. Als die vierte Gewalt beeinflussen sie 
+maßgeblich die öffentliche Meinung und können das Bild der Gesellschaft prägen. Es gibt eine verbreitete Wahrnehmung, 
+dass Medien vor allem Negatives vermitteln und oft polarisieren. 
+Diese Tendenz könnte erklären, warum ich mich dazu entschieden habe, Artikel des ZDF (später auch andere öffentlich-rechtliche Sender)  zu analysieren. 
+Dabei möchte ich untersuchen, ob bestimmte Muster in Bezug auf Autorprofilierung und sentimentale Analyse erkennbar sind, 
+und ob die Texte tendenziell eine politisch rechts oder links ausgerichtete Perspektive vermitteln. Diese Analyse könnte Aufschluss darüber geben, 
+wie die Berichterstattung politischer Ereignisse gestaltet ist und welchen Einfluss sie auf die öffentliche Wahrnehmung hat
