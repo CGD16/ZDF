@@ -18,6 +18,7 @@ class ZDF(scrapy.Spider):
         yield {
             "Link": response,
             "News Category": response.css('span.o1byiadb.t1ktg2ut ::text').extract(),
+            "Author": response.css('span.m211382 ::text').extract(),
             "publish_time": response.css('span.djkus7a.m211382 ::text').extract(),
             "Title": response.css('span.t1w1kov8.hhhtovw ::text').extract(),
             "scribe": response.css('p.ikh9v7p.c1bdz7f4 ::text').extract(),
