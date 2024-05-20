@@ -10,7 +10,8 @@ da viele Bürger mit ihren Lebensumständen unzufrieden sind und dies durch öff
 In diesem Kontext spielt die Rolle der Medien eine entscheidende Rolle. Als die vierte Gewalt beeinflussen sie 
 maßgeblich die öffentliche Meinung und können das Bild der Gesellschaft prägen. Es gibt eine verbreitete Wahrnehmung, 
 dass Medien vor allem Negatives vermitteln und oft polarisieren. 
-Diese Tendenz könnte erklären, warum ich mich dazu entschieden habe, Artikel des ZDF (später auch andere öffentlich-rechtliche Sender)  zu analysieren. 
-Dabei möchte ich untersuchen, ob bestimmte Muster in Bezug auf Autorprofilierung und sentimentale Analyse erkennbar sind, 
-und ob die Texte tendenziell eine politisch rechts oder links ausgerichtete Perspektive vermitteln. Diese Analyse könnte Aufschluss darüber geben, 
-wie die Berichterstattung politischer Ereignisse gestaltet ist und welchen Einfluss sie auf die öffentliche Wahrnehmung hat
+
+Diese These möchte ich im Folgenden herausarbeiten und dabei spezifische Werkzeuge der Datenanalyse, insbesondere im Bereich des maschinellen Lernens, anwenden. Dazu zählen unter anderem Autorprofilierung und Sentimentanalyse. Mit dieser Analyse soll ermittelt werden, ob die Artikel eine tendenziell politisch rechts- oder linksgerichtete Perspektive vermitteln, wie politische Ereignisse berichtet werden und welchen Einfluss diese Berichterstattung auf die öffentliche Wahrnehmung hat.
+
+
+Das Ergebnis dieser Analyse kann Aufschluss darüber geben, ob und wie Medien (jetzt: ZDF - später auch andere öffentlich-rechtliche Sender)möglicherweise zur gesellschaftlichen Polarisierung beitragen. Damit soll ein tieferes Verständnis für die Rolle der Medien in Zeiten sozialer Spannungen gewonnen werden.
