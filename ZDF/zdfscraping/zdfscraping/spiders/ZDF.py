@@ -25,6 +25,3 @@ class ZDF(scrapy.Spider):
             "Text": response.css('div.s1am5zo.f1uhhdhr ::text').extract()
         }
 
-    # execute the following line in your terminal in order to get new datapoints
-    # make sure you are in the right folder (the name of the folder: spiders)
-    # scrapy crawl -O zdf_dataset_version_1:json zdf_scrapy
