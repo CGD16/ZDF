@@ -11,7 +11,13 @@ In diesem Kontext spielt die Rolle der Medien eine entscheidende Rolle. Als die 
 maßgeblich die öffentliche Meinung und können das Bild der Gesellschaft prägen. Es gibt eine verbreitete Wahrnehmung, 
 dass Medien vor allem Negatives vermitteln und oft polarisieren. 
 
-Diese These möchte ich im Folgenden herausarbeiten und dabei spezifische Werkzeuge der Datenanalyse, insbesondere im Bereich des maschinellen Lernens, anwenden. Dazu zählen unter anderem Autorprofilierung und Sentimentanalyse. Mit dieser Analyse soll ermittelt werden, ob die Artikel eine tendenziell politisch rechts- oder linksgerichtete Perspektive vermitteln, wie politische Ereignisse berichtet werden und welchen Einfluss diese Berichterstattung auf die öffentliche Wahrnehmung hat.
+Diese These möchte ich im Folgenden herausarbeiten und dabei spezifische Werkzeuge der Datenanalyse, 
+insbesondere im Bereich des maschinellen Lernens, anwenden. 
+Dazu zählen unter anderem Author profiling und Sentiment analysis. Mit dieser Analyse soll ermittelt werden, ob die Artikel eine tendenziell 
+politisch rechts- oder linksgerichtete Perspektive vermitteln, wie politische Ereignisse berichtet werden und welchen 
+Einfluss diese Berichterstattung auf die öffentliche Wahrnehmung hat.
 
 
-Das Ergebnis dieser Analyse kann Aufschluss darüber geben, ob und wie Medien (jetzt: ZDF - später auch andere öffentlich-rechtliche Sender)möglicherweise zur gesellschaftlichen Polarisierung beitragen. Damit soll ein tieferes Verständnis für die Rolle der Medien in Zeiten sozialer Spannungen gewonnen werden.
+Das Ergebnis dieser Analyse kann Aufschluss darüber geben, ob und wie Medien 
+(jetzt: ZDF - später auch andere öffentlich-rechtliche Sender) möglicherweise zur gesellschaftlichen Polarisierung beitragen. 
+Damit soll ein tieferes Verständnis für die Rolle der Medien in Zeiten sozialer Spannungen gewonnen werden.
